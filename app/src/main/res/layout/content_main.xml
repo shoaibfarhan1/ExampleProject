@@ -20,4 +20,13 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shoaib Farhan!"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textStyle="bold" />
+
 </android.support.constraint.ConstraintLayout>
